@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar: class java.lang.Object now provided by /usr/java/jdk1.8.0_191-amd64/jre/lib/rt.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating /Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar: class scala.Function1 now provided by /home/nlamei/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/common/package.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/FunSets.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/nlamei/Desktop/funset/src/main/scala/common/package.scala, /home/nlamei/Desktop/funset/src/main/scala/funsets/Main.scala, /home/nlamei/Desktop/funset/src/main/scala/funsets/FunSets.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/common/package.class, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/funsets/Main$.class, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/common/package$.class, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/funsets/Main.class, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/funsets/Main$delayedInit$body.class, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/funsets/FunSets$.class, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/target/scala-2.12/classes/funsets/FunSets.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar, /Users/salmakhater/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(common.package, funsets.FunSets, funsets.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/common/package.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/FunSets.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(/Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/common/package.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/FunSets.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(common.package, funsets.FunSets, funsets.Main)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/nlamei/Desktop/funset/src/main/scala/common/package.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/common/package.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/FunSets.scala, /Users/salmakhater/WorkSpace/iti/scala-2019/labs/funset/src/main/scala/funsets/Main.scala, /home/nlamei/Desktop/funset/src/main/scala/funsets/FunSets.scala, /home/nlamei/Desktop/funset/src/main/scala/funsets/Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated package objects: Set(common.package)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 3 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /home/nlamei/Desktop/funset/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4de6a4c6 for Scala compiler version 2.12.8[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/java/jdk1.8.0_191-amd64/jre/lib/resources.jar:/usr/java/jdk1.8.0_191-amd64/jre/lib/rt.jar:/usr/java/jdk1.8.0_191-amd64/jre/lib/sunrsasign.jar:/usr/java/jdk1.8.0_191-amd64/jre/lib/jsse.jar:/usr/java/jdk1.8.0_191-amd64/jre/lib/jce.jar:/usr/java/jdk1.8.0_191-amd64/jre/lib/charsets.jar:/usr/java/jdk1.8.0_191-amd64/jre/lib/jfr.jar:/usr/java/jdk1.8.0_191-amd64/jre/classes:/home/nlamei/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/nlamei/Desktop/funset/target/scala-2.12/classes:/home/nlamei/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.12/bundles/scala-parser-combinators_2.12-1.0.4.jar:/home/nlamei/.ivy2/cache/org.scalactic/scalactic_2.12/bundles/scalactic_2.12-3.0.5.jar:/home/nlamei/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.515480246 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
